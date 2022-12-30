@@ -1,0 +1,4 @@
+sympy
+fastapi[all]
+numpy
+pytest
